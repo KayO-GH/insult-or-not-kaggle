@@ -7,7 +7,7 @@ The challenge is to detect when a comment from a conversation would be considere
 
 The idea is to create a generalizable single-class classifier which could operate in a near real-time mode, scrubbing the filth of the internet away in one pass.
 
-This notebook was adapted from a [talk](https://www.youtube.com/watch?v=-kAbFiecIG0) by [Alexandre Gramfort](http://http://alexandre.gramfort.net/) at a PyData 2015 conference.
+This notebook was adapted from a [talk](https://www.youtube.com/watch?v=-kAbFiecIG0) by [Alexandre Gramfort](http://alexandre.gramfort.net/) at a PyData 2015 conference.
 
 Datasets can be found on [Kaggle](https://www.kaggle.com/c/detecting-insults-in-social-commentary/data). Extract to the data directory before running notebook.
 
